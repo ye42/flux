@@ -1,5 +1,5 @@
 {
-    "name": "ye42/flux",
+    "name": "livewire/flux",
     "description": "The official UI component library for Livewire.",
     "keywords": ["flux", "laravel", "livewire", "components", "ui"],
     "type": "library",
