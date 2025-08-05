@@ -2,9 +2,7 @@
     "name": "ye42/flux",
     "description": "The official UI component library for Livewire.",
     "keywords": ["flux", "laravel", "livewire", "components", "ui"],
-    "version": "2.1.6",
     "type": "library",
-    "target-dir": "livewire",
     "license": "proprietary",
     "authors": [
         {
