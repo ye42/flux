@@ -1,4 +1,4 @@
-# Flux
+# Custom fork Flux
 
 Flux is a robust, hand-crafted UI component library for [Livewire](https://livewire.laravel.com) applications. It's built using [Tailwind CSS](https://tailwindcss.com) and provides a set of components that are easy to use and customize.
 
